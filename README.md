@@ -2,7 +2,7 @@
 
 1. Creación de un proyecto en IntelliJ
 
-![Creación de Priyecto](./img/Captura%20de%20pantalla%202022-11-07%20151657.png)
+![Creación de Proyecto](./img/Captura%20de%20pantalla%202022-11-07%20151657.png)
 
 2. Primer commit:
 
